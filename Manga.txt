@@ -1,0 +1,2 @@
+Manga is the one of the best
+/usr/bin/bash: line 1: wq: command not found
